@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 title: niu Home
 description: Coding is everythong!
+
+plugins:
+  - jemoji
