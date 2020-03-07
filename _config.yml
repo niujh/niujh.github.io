@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: jekyll_plugins
 
 title: niu Home
 
