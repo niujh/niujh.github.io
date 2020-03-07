@@ -1,2 +1,13 @@
-markdown: kramdown
-theme: minima
+theme: jekyll-theme-cayman
+
+gem "github-pages", group: :jekyll_plugins
+
+title: niu Home
+
+name: niu?
+
+description: Coding is everything!
+
+# show_downloads: ["true"]
+# google_analytics: [Your Google Analytics tracking ID]
+
