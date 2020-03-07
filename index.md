@@ -4,8 +4,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        ## [:point_right: {{ post.title }}]({{ post.url }})
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     </li>
   {% endfor %}
 </ul>
